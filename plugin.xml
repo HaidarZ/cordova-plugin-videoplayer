@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.moust.cordova.videoplayer"
+    id="cordova-plugin-video-player"
     version="1.0.1">
 
     <name>Video Player</name>
     <description>Native Video Player Plugin</description>
     <license>MIT</license>
     <keywords>cordova,media,player,video</keywords>
-    <repo>https://github.com/moust/cordova-plugin-videoplayer.git</repo>
+    <repo>https://github.com/HaidarZ/cordova-plugin-videoplayer.git</repo>
     <issue>https://github.com/moust/cordova-plugin-videoplayer/issues</issue>
 
     <js-module src="www/videoplayer.js" name="VideoPlayer">
